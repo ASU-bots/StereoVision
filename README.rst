@@ -28,6 +28,11 @@ Author: `Daniel Lee <Lee.Daniel.1986@gmail.com>`_
 NASGR Fork
 ----------
 
-I will be working to add integration with python-pcl. 
+I will be working to add integration with pcl. 
 
 I'll add output to pcl data formats in images_to_pointcloud, as well as the PCD file format
+
+First, I'll need to link the cpp pcl library to python, because the current python-pcl library 
+does not support colors, or adding points, and is relatively new. The AUVSI competition requires
+color recognition.
+
