@@ -24,3 +24,10 @@ use it any way you like. It would be nice to let me know if you do anything
 cool with it though.
 
 Author: `Daniel Lee <Lee.Daniel.1986@gmail.com>`_
+
+NASGR Fork
+----------
+
+I will be working to add integration with python-pcl. 
+
+I'll add output to pcl data formats in images_to_pointcloud, as well as the PCD file format
