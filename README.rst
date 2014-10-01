@@ -36,3 +36,4 @@ First, I'll need to link the cpp pcl library to python or vice versa, because th
 does not support colors, or adding points, and is relatively new. The AUVSI competition requires
 color recognition.
 
+I could add on to the python-pcl library, but it will be simpler to embed python in cpp for now.
